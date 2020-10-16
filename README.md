@@ -1,3 +1,4 @@
+[![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
 # [GameHub](https://tkashkin.tk/projects/gamehub) [![Build status](https://ci.appveyor.com/api/projects/status/cgw5hc4kos4uvmy9/branch/master?svg=true)](https://ci.appveyor.com/project/tkashkin/gamehub/branch/master) [![Translation status](https://hosted.weblate.org/widgets/gamehub/-/translations/svg-badge.svg)](https://hosted.weblate.org/engage/gamehub/?utm_source=widget)
 Unified library for all your games.
 
